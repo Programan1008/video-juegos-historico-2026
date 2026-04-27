@@ -1,0 +1,76 @@
+# ─────────────────────────────────────────────────────────
+# .gitignore — Videojuegos en la Historia
+# ─────────────────────────────────────────────────────────
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Entornos virtuales
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.conda/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Archivos temporales de análisis
+*.pyc
+*.log
+*.tmp
+
+# Archivos de salida generados (no subirlos al repo)
+reporte_eda_videojuegos.html
+reporte_gaming_chile_2025.html
+dashboard_gaming_chile.png
+videojuegos_para_powerbi.csv
+resumen_marca_genero.csv
+serie_temporal.csv
+top100_juegos.csv
+videojuegos_dataset.json
+
+# Archivos grandes de datos (si el xlsx supera 50MB, agregar aquí)
+# *.xlsx
+
+# Sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Credenciales y configuración local (NUNCA subir al repo)
+.env
+*.key
+config_local.py
+secrets.py
