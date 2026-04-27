@@ -1,6 +1,6 @@
 # 🎮 Videojuegos en la Historia — Análisis Global 1977–2024
 
-> Proyecto de Ciencia de Datos presentado en la **Conferencia Gaming Chile 2025**
+> Proyecto de Ciencia de Datos 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
