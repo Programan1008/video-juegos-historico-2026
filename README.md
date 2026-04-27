@@ -142,7 +142,7 @@ jupyter lab
 
 **[Cristopher Jiménez Escobar]** *Analista Programador / Cientifico de Datos*
 - GitHub: [Programan1008](https://github.com/Programan1008)
-- LinkedIn: [linkedin.com/in/TU_PERFIL](www.linkedin.com/in/programan1008)
+- LinkedIn: [programan1008](www.linkedin.com/in/programan1008)
 
 ---
 
